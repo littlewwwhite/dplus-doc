@@ -69,8 +69,6 @@ p-tuning:[THUDM/P-tuning-v2: An optimized deep prompt tuning strategy comparable
 baichuan-13bv2放出的全训练过程
 Qwen-14b放出的全训练过程
 qwen-140b，4bit，4卡
-
-
 幻觉优化：
 [百川智能发布 Baichuan2-53B，开放 API 全面进军 To B 领域](https://mp.weixin.qq.com/s/7gFCnPgox0lJ6ISBJKDj3Q)
 

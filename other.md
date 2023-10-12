@@ -15,8 +15,6 @@ https://twitter.com/LangChainAI/status/1698009136263299582?s=20
 text2sql相关：
 [cubenlp/ChatSQL: 自然语言转 SQL，直接连接数据库查询 (github.com)](https://github.com/cubenlp/ChatSQL)
 
-
-
 ## 数据构造改进空间：
 
 1. 角度太单一，应按段落让gpt4从多个角度和多个层面去，总结，去提问，去识别，归类，生成。
@@ -25,7 +23,6 @@ text2sql相关：
    1. 寻找cot的模板和数据集
    2. 微调一版模型（需要大参数量才可以）
    3. 对齐问题
-
 
 ## 高阶模型用法
 
@@ -71,4 +68,4 @@ v7：使用语义搜索对上下文进行排序，使用句子转换器实现。
 
 其实金牌选手的想法都可以借鉴一下：
 
-<img width="1264" alt="image" src="https://github.com/littlewwwhite/dplus-doc/assets/34784086/b3027c14-338d-4e28-ac08-d3e8a9d3d39d">
+![1697093987998](image/other/1697093987998.png)
