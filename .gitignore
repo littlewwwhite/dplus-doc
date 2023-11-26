@@ -1,2 +1,4 @@
 # .gitignore
 api_key.py
+__pycache__
+test.ipynb
